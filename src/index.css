@@ -1,0 +1,13 @@
+body {
+	padding-top: 40px;
+  background-color: #8E33F7;
+  font-family: sans-serif;
+	color: #ffffff;
+}
+.instructions {
+	font-size: 18px;
+}
+#pollQuestion {
+	font-size: 24px;
+	font-weight: bold;
+}
