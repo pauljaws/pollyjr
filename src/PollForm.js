@@ -63,6 +63,7 @@ class PollForm extends Component {
 								componentClass="textarea"
 								onChange={this.handleQuestionChange}
 								value={pollQuestion}
+								maxlength="140"
 								autoFocus
 							/>
 						</FormGroup>
